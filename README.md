@@ -1,5 +1,5 @@
 # Interceptor
-An assignment for CSC209. Note to UofT students, please **do not plagarize**. MarkUs ***will*** catch you.  
+An assignment for CSC369. Note to UofT students, please **do not plagarize**. MarkUs ***will*** catch you.  
 ---
 A kernel module used to intercept/hijack system calls and monitor processes.
 
